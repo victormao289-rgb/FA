@@ -10,7 +10,7 @@ namespace C_
     {
         static void Main(string[] args)
         {
-            ejercicio01();
+            ejercicio15();
             Console.ReadKey(); //realizando detenimiento de consola
         }
         static void ejercicio01()
@@ -285,6 +285,95 @@ namespace C_
             }
             Console.WriteLine("Acceso denegado. Ya culmino todos sus intentos!");
             Console.ReadKey();
+        }
+        static void ejercicio13()
+        {
+            int p = 0, i = 0;  // Contadores para pares e impares
+
+            while (true)
+            {
+                Console.Write("Ingrese un número: ");
+                int num = int.Parse(Console.ReadLine());
+
+                if (num < 0)
+                {
+                    break; // Sale del bucle si el número es negativo
+                }
+
+                if (num % 2 == 0)
+                {
+                    p++; // Incrementa contador de pares
+                }
+                else
+                {
+                    i++; // Incrementa contador de impares
+                }
+            }
+
+            Console.WriteLine("\nCantidad de pares: " + p);
+            Console.WriteLine("Cantidad de impares: " + i);
+        }
+        static void ejercicio14()
+        {
+            // Generar número aleatorio entre 1 y 20
+            Random random = new Random();
+            int secreto = random.Next(1, 21); // 21 porque el límite superior es exclusivo
+            int intentos = 3;
+
+            // Mensaje de bienvenida
+            Console.WriteLine("***********************************");
+            Console.WriteLine("* BIENVENIDOS AL JUEGO ADIVINADOR *");
+            Console.WriteLine("*                                 *");
+            Console.WriteLine("* 1. Ud. deberá adivinar el número entre 1 y 20");
+            Console.WriteLine("* 2. Ud. tiene 3 intentos *");
+            Console.WriteLine("* 3. Por cada falla se otorgará una pista *");
+            Console.WriteLine("*******************************************");
+
+            do
+            {
+                Console.Write($"\nIngrese un número (Intentos {intentos}): ");
+                int num =  int.Parse(Console.ReadLine());
+
+                if (num == secreto)
+                {
+                    Console.WriteLine($"\nFelicidades. Adivinaste!");
+                    return;
+                }
+                else
+                {
+                    intentos--;
+                    if (num < secreto)
+                        Console.WriteLine("El número es mayor");
+                    else
+                        Console.WriteLine("El número es menor");
+                }
+            } while (intentos > 0);
+            Console.WriteLine("\nNo lograste adivinar el número " + secreto);
+        }
+        static void ejercicio15()
+        {
+            string opc;
+            int num;
+
+            do
+            {
+                Console.Clear();
+                int suma = 0;
+
+                Console.Write("Ingrese un número: ");
+                num = int.Parse(Console.ReadLine());
+
+                for (int i = 1; i <= num; i++)
+                {
+                    suma += i;
+                    Console.Write(i + " ");
+                }
+                Console.WriteLine("\nSuma: " + suma);
+
+                Console.WriteLine("\n¿Desea continuar? (Presione N para salir):");
+                opc = Console.ReadLine();
+
+            } while (opc != "N");
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿# -*- coding: utf-8 -*-
 import math
+import random
 
 def ejercicio01():
     x = int(input("Ingrese x: "))
@@ -209,4 +210,69 @@ def ejercicio12():
 
     input("\nPresione ENTER para salir...")
 
-ejercicio12()
+def ejercicio13():
+    p = i = 0
+    while True:
+        num = int(input("Ingrese un número: "))
+        
+        if num < 0:
+            break
+        if num % 2 == 0:
+            p += 1
+        else:
+            i += 1
+            
+    print("\nCantidad de pares: ",p)
+    print("Cantidad de impares: ",i)
+
+def ejercicio14():
+    secreto = random.randint(1,20)
+    intentos = 3
+
+    print("***********************************")
+    print("* BIENVENIDOS AL JUEG0 ADIVINADOR *")
+    print("*                                 *")
+    print("* 1. Ud. deberá adivinar el número entre 1 y 20")
+    print("* 2. Ud. tiene 3 intentos *")
+    print("* 3. Por cada falla se otorgará una pista *")
+    print("*******************************************")
+
+    while (intentos > 0):
+        num = int(input(f"\nIngrese un número (Intento {intentos}): "))
+
+        if num == secreto:
+            print("\nFelicidades. Adivinaste!")
+            break
+        else:
+            intentos -= 1
+            if num < secreto:
+                print("El número es mayor.")
+            else:
+                print("El número es menor.")
+    else:
+        print(f"\nNo lograste adivinar el número secreto {secreto}")
+
+def ejercicio15():
+    import os  # Para limpiar la consola
+
+    opc = ""
+    num = 0
+
+    while True:
+        # Limpiar pantalla (funciona en Windows)
+        os.system('cls')
+
+        suma = 0
+        num = int(input("Ingrese un número: "))
+
+        for i in range(1, num + 1):
+            suma += i
+            print(i, end=" ")
+
+        print("\nSuma:", suma)
+
+        opc = input("\n¿Desea continuar? (Presione N para salir): ")
+        if opc == "N":
+            break
+
+ejercicio15()

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\EstructuraRepetitivaFor\\",
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\FA\\EstructuraRepetitivaFor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3D4F184-DDDA-4BD4-873A-CB35987CB7A9}|E_01\\E_01.csproj|c:\\users\\victor\\documents\\estructurarepetitivafor\\e_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B98663F-B354-4958-8700-DA86F6A16779}|E_02\\E_02.pyproj|C:\\Users\\Victor\\Desktop\\FA\\EstructuraRepetitivaFor\\E_02\\E_02.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B98663F-B354-4958-8700-DA86F6A16779}|E_02\\E_02.pyproj|solutionrelative:E_02\\E_02.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D4F184-DDDA-4BD4-873A-CB35987CB7A9}|E_01\\E_01.csproj|c:\\users\\victor\\desktop\\fa\\estructurarepetitivafor\\e_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3D4F184-DDDA-4BD4-873A-CB35987CB7A9}|E_01\\E_01.csproj|solutionrelative:e_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "E_02.py",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\FA\\EstructuraRepetitivaFor\\E_02\\E_02.py",
+              "RelativeDocumentMoniker": "E_02\\E_02.py",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\FA\\EstructuraRepetitivaFor\\E_02\\E_02.py",
+              "RelativeToolTip": "E_02\\E_02.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMtSURBVDhPrZS9T1tnFMZ/1/cLGxy7BNuJIeCG2hIiSSWqRmmR8Fh16lhVVVTRIR34Ezo2kSqUqUJeKkHLEqlDWZAyUJZEoUNaoTatXEgsQykGFFyw8de997337RA5MeYqUx/pDOc55zx6znmlF/5PSCmVzjybzX4/NTV1U9f1TvoUKpWKrFard5aXl\u002B/u7e1Vu\u002BtaNzE9PU0ikeimX2J1dVUWi8UvVFWVKysr3xQKhXJn/YwgQKFQ6KZQVZVUKoWu64FsNhtNp9O3LMsKapo2u7Gxcdju8xVMJpPdFIry6jqGYeiTk5MDuq5/IqW0hBBfFwqFOkCgc6gNwzDORPuuqqqytLTE3Nycura2diEUCk2Yphlvz/o63Nzc7KbQNI10Os27N95n4vp7aAGFZv3Emp\u002Bf//tUX2fSxtjYWDdFzRL8lD9kv9qk2bTRA3AxrGoXh4b7A4FXi/oK\u002Bjm0\u002BpI8269xUKnz\u002BOk\u002BwrGJ9Rn6R\u002BNDI/F4vK/d53vDVCp1JioNwaONPfI7ZTzh4AmXaq2hNEQgGA6HQ\u002B1ZX0EA13VxUfjrucO9xwf8tl3m2qUoE6l\u002BzvfqCOEghCAWrV9d\u002Bu7mz17zjyee5w37rry1tQXAbkvnxycn7JZPEMLGdRyE4\u002BA6Np7r4CkKhvIcmuvQWh8n9uWsr8NMJkMmk6Ehezg4riGEg\u002BcINDwiQY1ISCca0nk7FeJasgpuE6x/wN75wNdhPp8HYGe3iWXZeEIw3K8xk20SVI\u002BR0gPpETWOGAwegGi8EHWPI691ODKYwAiAEA63sgbvXPiV8dgzrsQLXBnIM9RbRBH/gqiBWwc9eeQraNs2tm0z8obJ5YEgYVMlds5DkS54NggLPA9cQAZA6tBz1cUY/NZ35VKpBIAJfJ69TMWCRGQLWja4LVAioARBV8DMHGG\u002B\u002BSc9bz1dXFyc9RUcHR09lSuKgumVJLW6gtsC9xB6b4BUQD2/88P93a8ePLj3KJfLNc4ILiwsvPwIOvHZpx9uXzIHU9i/v3iAk1\u002BQfdelG5woP3x4u5jL5RrdM6\u002BFlPKc9Jy7srW9J2vrnrRK21LK\u002B1LKj2dmZlLtvv8AoKdgTW7XN1wAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-16T21:02:31.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\EstructuraRepetitivaFor\\E_01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\FA\\EstructuraRepetitivaFor\\E_01\\Program.cs",
               "RelativeDocumentMoniker": "E_01\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\EstructuraRepetitivaFor\\E_01\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\FA\\EstructuraRepetitivaFor\\E_01\\Program.cs",
               "RelativeToolTip": "E_01\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T19:56:27.906Z",
               "EditorCaption": ""

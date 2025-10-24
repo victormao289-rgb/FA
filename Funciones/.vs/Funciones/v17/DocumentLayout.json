@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\Funciones\\",
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\FA\\Funciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA67D0EC-3BAA-4E09-9BD4-C404B4ECB383}|E_01\\E_01.csproj|c:\\users\\victor\\documents\\funciones\\e_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AE5D9C2-411E-4AB9-B04E-273406DBCFD5}|E_02\\E_02.csproj|c:\\users\\victor\\desktop\\fa\\funciones\\e_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE5D9C2-411E-4AB9-B04E-273406DBCFD5}|E_02\\E_02.csproj|solutionrelative:e_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA67D0EC-3BAA-4E09-9BD4-C404B4ECB383}|E_01\\E_01.csproj|c:\\users\\victor\\desktop\\fa\\funciones\\e_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA67D0EC-3BAA-4E09-9BD4-C404B4ECB383}|E_01\\E_01.csproj|solutionrelative:e_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\Funciones\\E_01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\FA\\Funciones\\E_02\\Program.cs",
+              "RelativeDocumentMoniker": "E_02\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\FA\\Funciones\\E_02\\Program.cs",
+              "RelativeToolTip": "E_02\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:15:13.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\FA\\Funciones\\E_01\\Program.cs",
               "RelativeDocumentMoniker": "E_01\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\Funciones\\E_01\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\FA\\Funciones\\E_01\\Program.cs",
               "RelativeToolTip": "E_01\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T18:52:28.514Z",
               "EditorCaption": ""

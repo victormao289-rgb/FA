@@ -1,0 +1,12 @@
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\bin\Debug\net8.0\B_01.deps.json
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\bin\Debug\net8.0\B_01.dll
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\bin\Debug\net8.0\B_01.pdb
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\obj\Debug\net8.0\B_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\obj\Debug\net8.0\B_01.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\obj\Debug\net8.0\B_01.AssemblyInfo.cs
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\obj\Debug\net8.0\B_01.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\obj\Debug\net8.0\B_01.sourcelink.json
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\obj\Debug\net8.0\B_01.dll
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\obj\Debug\net8.0\refint\B_01.dll
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\obj\Debug\net8.0\B_01.pdb
+C:\Users\Victor\Desktop\FA\Bibliotecas\B_01\obj\Debug\net8.0\ref\B_01.dll

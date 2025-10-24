@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\FA\Funciones\E_02\bin\Debug\E_02.exe.config
+C:\Users\Victor\Desktop\FA\Funciones\E_02\bin\Debug\E_02.exe
+C:\Users\Victor\Desktop\FA\Funciones\E_02\bin\Debug\E_02.pdb
+C:\Users\Victor\Desktop\FA\Funciones\E_02\obj\Debug\E_02.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\FA\Funciones\E_02\obj\Debug\E_02.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\FA\Funciones\E_02\obj\Debug\E_02.exe
+C:\Users\Victor\Desktop\FA\Funciones\E_02\obj\Debug\E_02.pdb

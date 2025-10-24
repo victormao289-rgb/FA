@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\EstructuraRepetitivaWhile\\",
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\FA\\EstructuraRepetitivaWhile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E46C13E-4F74-4CFA-8FF4-8CA57AE05534}|E_01\\E_01.csproj|c:\\users\\victor\\documents\\estructurarepetitivawhile\\e_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E46C13E-4F74-4CFA-8FF4-8CA57AE05534}|E_01\\E_01.csproj|c:\\users\\victor\\desktop\\fa\\estructurarepetitivawhile\\e_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E46C13E-4F74-4CFA-8FF4-8CA57AE05534}|E_01\\E_01.csproj|solutionrelative:e_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\EstructuraRepetitivaWhile\\E_01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\FA\\EstructuraRepetitivaWhile\\E_01\\Program.cs",
               "RelativeDocumentMoniker": "E_01\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\EstructuraRepetitivaWhile\\E_01\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\FA\\EstructuraRepetitivaWhile\\E_01\\Program.cs",
               "RelativeToolTip": "E_01\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA3wCMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T19:18:30.512Z",
               "EditorCaption": ""
